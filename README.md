@@ -1,8 +1,9 @@
 # MADPRACTICAL3_20012021012
 
-Aim: Resource, Theme, Color, Layout, Explicit Intent, BottomNavigationView, Gradle File structure, Material Design 3
+Aim: Create following UI by using ConstraintLayout, LinearLayout, in one android Application. Create two activities for each layout & use BottomNavigationBar & Explicit Intent to move from one activity to another activity. Don't use LinearLayout in ConstraintLayout and vice versa.
 
 Day Theme:-
+
 1.
 ![5](https://user-images.githubusercontent.com/111679306/187743701-75940933-1b30-4175-9699-640679309eca.jpeg)
 
@@ -16,6 +17,7 @@ Day Theme:-
 ![7](https://user-images.githubusercontent.com/111679306/187743828-1d75bf2f-7ef5-432c-babc-9b1f30ec1686.jpeg)
 
 Nigth Theme:-
+
 1.
 ![1](https://user-images.githubusercontent.com/111679306/187743846-dfcd7291-81d2-486e-b569-4fcf65021d92.jpeg)
 
